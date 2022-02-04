@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Daniela Aros Mualin
 
-You can use the [editor on GitHub](https://github.com/damualin/darosmualin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! I am a botanist from Chile, currently doing a PhD student at the [University of Zurich](https://www.ieu.uzh.ch/en/teaching/phd/graduate.html) working in the lab of [Dr. Michael Kessler](https://www.systbot.uzh.ch/de/research/kessler-group/MichaelKessler.html). My research interest are plant ecophysiology and ecology, specifically how plant water-carbon relations changes with their environment, and better yet if I can study this from an evolutionary standpoint. This is what encourage me to study ferns since they are an ancient plant lineage that is severely understudied.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
 
-### Markdown
+Email: *darosm@systbot.uzh.ch*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Twitter: *@DaniArosMualin*
 
-```markdown
-Syntax highlighted code block
+[Institutional webpage](https://www.systbot.uzh.ch/de/research/kessler-group/Daniela-Aros.html)
 
-# Header 1
-## Header 2
-### Header 3
+[ResearchGate](https://www.researchgate.net/profile/Daniela-Aros-Mualin)
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+MSc. Plant Science, 2017, University of Bonn
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/damualin/darosmualin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+BSc. Biology, 2014, Pontificia Universidad Católica de Chile
