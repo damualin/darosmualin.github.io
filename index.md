@@ -5,11 +5,8 @@ Welcome! I am a botanist from Chile, currently doing a PhD student at the [Unive
 ### Contact
 
 Email: *darosm@systbot.uzh.ch*
-
 Twitter: *@DaniArosMualin*
-
 [Institutional webpage](https://www.systbot.uzh.ch/de/research/kessler-group/Daniela-Aros.html)
-
 [ResearchGate](https://www.researchgate.net/profile/Daniela-Aros-Mualin)
 
 ### Education
