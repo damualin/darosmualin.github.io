@@ -7,5 +7,6 @@ Twitter:  [@DaniArosMualin](https://twitter.com/DaniArosMualin)
 [ResearchGate](https://www.researchgate.net/profile/Daniela-Aros-Mualin) 
 
 ### Education
+PhD in Ecology Candidate, University of Zurich
 MSc. Plant Science, 2017, University of Bonn
 BSc. Biology, 2014, Pontificia Universidad Católica de Chile
